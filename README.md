@@ -2,6 +2,10 @@
 
 This project for learn, im create this project follow on free coursus [buildwithangga](https://class.buildwithangga.com/course-playing/8gyMElE3Zr/20)
 
+## link demo
+
+[project-chasier](https://muhammaddzakiardiansyah.github.io/project-chasier/)
+
 ## technology used
 
 - HTML 5
