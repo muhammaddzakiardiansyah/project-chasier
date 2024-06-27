@@ -10,8 +10,8 @@ This project for learn, im create this project follow on free coursus [buildwith
 
 ## on progres
 
-- Responsive device tablet
-- Responsive device mobile
+- Responsive device tablet ❌
+- Responsive device mobile ❌
 
 ## contribute
 
